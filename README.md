@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-🔭 Trabalho desenvolvendo e dando manutenção nos sistemas da Univiçosa, sendo <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="15rem" width="15rem"/> *Laravel* e <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"  height="15rem" width="15rem"/> *VueJS* as principais tecnologias utilizadas.
+🔭 Trabalho desenvolvendo e dando manutenção nos sistemas da Univiçosa sendo <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="15rem" width="15rem"/> *Laravel* e <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"  height="15rem" width="15rem"/> *VueJS* as principais tecnologias utilizadas.
 
 🌱 Estudando atualmente <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  height="15rem" width="15rem"/> *TypeScript*.
 
